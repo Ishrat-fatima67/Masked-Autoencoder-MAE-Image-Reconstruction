@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Masked Autoencoder (MAE) | Image Reconstruction
 
 ---
@@ -80,3 +81,6 @@ Upload any image, adjust the masking ratio, and watch the model reconstruct it i
 - Trained on Kaggle T4 × 2
 
 ---
+=======
+# Masked-Autoencoder-MAE-Image-Reconstruction
+>>>>>>> 4446a1ccc4af8dc25e7dd55b7237eb95dbc5ce53
