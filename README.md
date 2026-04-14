@@ -38,7 +38,7 @@ Trained for **50 epochs** on TinyImageNet (100K images) using **2× Kaggle T4 GP
 ├── app.py                             # Gradio web app
 ├── model.py                           # Model architecture
 ├── requirements.txt                   # Dependencies
-├── 22F-3617__22F-2616_assign2.ipynb   # Training notebook
+├── 22F-3617__22F-3616_assign2.ipynb   # Training notebook
 └── checkpoints/
     └── mae_best.pt                    # Trained weights (download separately)
 ```
